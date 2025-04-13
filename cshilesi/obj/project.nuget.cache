@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7iguXFQn/Wc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\koji\\source\\repos\\cshilesi\\cshilesi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\koji\\.nuget\\packages\\swed32\\1.1.0\\swed32.1.1.0.nupkg.sha512",
+    "C:\\Users\\koji\\.nuget\\packages\\swed64\\1.0.5\\swed64.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
